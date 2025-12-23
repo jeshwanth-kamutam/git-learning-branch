@@ -26,5 +26,8 @@ git commit
 git checkout -b bugFix
 ```
 
+### Description : In Git, merging is the process of combining changes from one branch into another. Typically, you merge a feature branch into a main branch (or any target branch) to integrate completed work without losing history.
+
+
 
 
